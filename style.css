@@ -1,0 +1,609 @@
+*{
+    margin: 0;
+padding: 0;
+
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif,arial;
+}
+.header{
+    background-image: url(Homepage-Model-3-Desktop-LHD-v2.avif);
+    background-size: cover;
+    height: 22cm;
+    width: 100%;
+
+}
+#teslalogo{
+    width: 130px;
+    margin-left: px;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-right: 130px;
+    margin-left: 35px;
+    position: relative;
+    bottom: 30px;
+}
+.centernavebar{
+    display: flex;
+  
+}
+.centernavebar p{
+    padding-inline-start: 26px;
+    font-size: smaller;
+    font-weight: 500;
+    position: relative;
+    right: 28px;
+}
+.profile{
+    width: 25px;
+    height: 25px;
+    display: flex;
+}
+.profile img{
+    padding-inline-start: 10px;
+ 
+}
+.banner{
+    align-items: center;
+    position: relative;
+    left: 520px;
+    top: 10px;
+   
+}
+.banner h3{
+font-weight: 500;
+font-size: 25px;
+
+}
+#main{
+position: relative;
+left: 640px;
+font-weight: 650;
+font-size:40px;
+font-family: "Open Sans", sans-serif;
+top: 10px;
+}
+.button{
+    align-items: center;
+    position: relative;
+    left: 430px;
+    top: 425px;
+   
+
+}
+#b1{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: black;
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+#b2{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+}
+#heading1{
+    position: relative;
+    left: 12px;
+    font-size: 600;
+}
+.body1{
+    background-image: url(Homepage-Model-Y-Desktop-Global.avif);
+    height: 22cm;
+    background-size: cover;
+}
+#main2{
+    position: relative;
+left: 640px;
+font-weight: 650;
+font-size:40px;
+font-family: "Open Sans", sans-serif;
+top: 140px;
+}
+.banner2{
+    align-items: center;
+    position: relative;
+    left: 520px;
+    top: 150px;
+   
+}
+.banner2 h3{
+    font-weight: 500;
+    font-size: 25px;
+  
+    
+    }
+ .banner2 h3 a{
+        color: black;
+ }
+ .banner h3 a{
+    color: black;
+}
+    #heading2{
+        position: relative;
+    left: 115px;
+    font-size: 600;
+    }
+    .button2{
+        align-items: center;
+        position: relative;
+        left: 400px;
+        top: 545px;
+       
+    
+    }
+    #b3{
+        box-sizing: border-box;
+        margin: 20px 10px;
+        border: 2px solid #fff;
+        background-color: #fff;
+        color: black;
+        width: 270px;
+        font-size: 14px;
+        display: inline-block;
+        font-weight: 1rem;
+        border-radius: 5px;
+        padding: 9px;
+    
+    }
+    #b4{
+        box-sizing: border-box;
+        margin: 20px 10px;
+        border: 2px solid #000000;
+        background-color: #000000;
+        color: rgb(255, 255, 255);
+        width: 270px;
+        font-size: 14px;
+        display: inline-block;
+        font-weight: 1rem;
+        border-radius: 5px;
+        padding: 9px;
+    }
+    .body3{
+        background-image: url(Homepage-Model-X-Desktop-v2.avif);
+        height: 22cm;
+        background-size: cover;
+    }
+    #main3{
+        position: relative;
+    left: 640px;
+    font-weight: 650;
+    font-size:40px;
+    font-family: "Open Sans", sans-serif;
+    top: 140px;
+    }
+    .banner3{
+        align-items: center;
+        position: relative;
+        left: 570px;
+        top: 150px;
+       
+    }
+    .banner3 h3{
+        font-weight: 500;
+        font-size: 25px;
+      
+        
+     }
+     .banner3 h3 a{
+            color: black;
+     }
+     #h3{
+        position: relative;
+     left: 60px;
+bottom: 5px;
+     }
+     .button3{
+        align-items: center;
+        position: relative;
+        left: 420px;
+        top: 545px;
+       
+    
+    }
+    #b5{
+        box-sizing: border-box;
+        margin: 20px 10px;
+        border: 2px solid #fff;
+        background-color: #fff;
+        color: black;
+        width: 270px;
+        font-size: 14px;
+        display: inline-block;
+        font-weight: 1rem;
+        border-radius: 5px;
+        padding: 9px;
+    
+    }
+    #b6{
+        box-sizing: border-box;
+        margin: 20px 10px;
+        border: 2px solid #000000;
+        background-color: #000000;
+        color: rgb(255, 255, 255);
+        width: 270px;
+        font-size: 14px;
+        display: inline-block;
+        font-weight: 1rem;
+        border-radius: 5px;
+        padding: 9px;
+    }
+    .body4{
+        background-image: url(Homepage-Model-S-Desktop-v2.avif);
+        height: 22cm;
+        background-size: cover;
+    }
+    #main4{
+        position: relative;
+        left: 635px;
+        font-weight: 650;
+        font-size:40px;
+        font-family: "Open Sans", sans-serif;
+        top: 140px;
+        color: #fff;
+    }
+    .banner4{
+        align-items: center;
+        position: relative;
+        left: 570px;
+        top: 150px;
+        color: #fff;
+    }
+    .banner4 h3{
+        font-weight: 500;
+        font-size: 25px;
+      
+        
+     }
+     .banner4 h3 a{
+        color: rgb(255, 255, 255);
+ }
+ #h4{
+    position: relative;
+ left: 55px;
+bottom: 5px;
+ }
+ .button4{
+    align-items: center;
+    position: relative;
+    left: 420px;
+    top: 545px;
+   
+
+}
+#b7{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: black;
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+#b8{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+}
+.body5{
+    background-image: url(Homepage-Cybertruck-Desktop.avif);
+    height: 22cm;
+    background-size: cover;
+}
+.body5 img{
+    width: 580px;
+  align-items: center;
+position: relative;
+left: 440px;
+}
+.button5{
+    align-items: center;
+    position: relative;
+    left: 420px;
+    top: 270px;
+
+
+}
+#b9{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #3e3e3e;
+    background-color: #000000;
+    color: rgb(132, 132, 132);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+#b10{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #434343;
+    background-color: #000000;
+    color: rgb(132, 129, 129);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+    font-weight: 600;
+}
+.body6{
+    background-image: url(Homepage-SolarPanels-01-Desktop.avif);
+    height: 22cm;
+    background-size: cover;
+}
+#main6{
+    position: relative;
+    left: 600px;
+    font-weight: 650;
+    font-size:40px;
+    font-family: "Open Sans", sans-serif;
+    top: 120px;
+    color: #fff;
+}
+.banner6{
+    align-items: center;
+    position: relative;
+    left: 550px;
+    top: 130px;
+    color: #fff;
+}
+.banner6 h3{
+    font-weight: 500;
+    font-size: 25px;
+  
+    
+ }
+ .banner6 h3 a{
+    color: rgb(255, 255, 255);
+}
+.button6{
+    align-items: center;
+    position: relative;
+    left: 420px;
+    top: 600px;
+
+
+}
+#b11{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: black;
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+#b12{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+}
+.body7{
+    background-image: url(Homepage-SolarRoof-Desktop-Global.avif);
+    height: 22cm;
+    background-size: cover;
+}
+#main7{
+    position: relative;
+    left: 610px;
+    font-weight: 650;
+    font-size:40px;
+    font-family: "Open Sans", sans-serif;
+    top: 120px;
+    color: #000000;
+}
+.banner7{
+    align-items: center;
+    position: relative;
+    left: 500px;
+    top: 128px;
+  
+}
+.banner7 h3{
+    font-weight: 500;
+    font-size: 25px;
+  
+    
+ }
+ .button7{
+    align-items: center;
+    position: relative;
+    left: 420px;
+    top: 600px;
+
+
+}
+#b13{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: black;
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+#b14{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+}
+.body8{
+    background-image: url(Homepage-Powerwall-01-Desktop.avif);
+    height: 22cm;
+    background-size: cover;
+}
+#main8{
+    position: relative;
+    left: 610px;
+    font-weight: 600;
+    font-size:40px;
+    font-family: "Open Sans", sans-serif;
+    top:152px;
+    color: #000000;
+}
+.button8{
+    align-items: center;
+    position: relative;
+    left: 420px;
+    top: 600px;
+
+
+}
+#b15{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    color: black;
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+#b16{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #000000;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+.body9{
+    background-image: url(Homepage-Accessories-Desktop-NA-APAC.avif);
+    height: 22cm;
+    background-size: cover;
+}
+#main9{
+    position: relative;
+    left: 610px;
+    font-weight: 650;
+    font-size:40px;
+    font-family: "Open Sans", sans-serif;
+    top:152px;
+    color: #000000;
+}
+.button9{
+    align-items: center;
+    position: relative;
+    left: 580px;
+    top: 600px;
+
+
+}
+#b17{
+    box-sizing: border-box;
+    margin: 20px 10px;
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    width: 270px;
+    font-size: 14px;
+    display: inline-block;
+    font-weight: 1rem;
+    border-radius: 5px;
+    padding: 9px;
+
+}
+.body10{
+    height: 12cm;
+    background-color: #000000;
+    color: #c1c1c1;
+ 
+}
+.body10 p{
+    text-align: center;
+    font-weight: 30;
+    font-size: 12px;
+    position: relative;
+    top: 40px;
+    word-spacing: 2px;
+    padding: 3px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+.body10 p a{
+    color:#f5f1f1 ;
+}
+footer{
+    display: flex;
+position: relative;
+justify-content: space-between;
+margin-left:450px;
+margin-right: 450px;
+top: 50px;
+font-weight: bold;
+
+}
